@@ -39,7 +39,7 @@ I'm a Backend Dev. and Blockchain Engineer with 3 years plus  of building experi
 
 #### Work 
 
-Portfolio: https://www.eniolaosabiya.com/portfolio
+<!-- Portfolio: https://www.eniolaosabiya.com/portfolio -->
  
   
 #### Github Stats 
