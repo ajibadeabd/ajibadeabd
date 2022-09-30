@@ -25,7 +25,7 @@ I'm a Backend Dev. and Blockchain Engineer with 3 years plus  of building experi
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@kordjs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/kordjs) [![Linkedin Badge](https://img.shields.io/badge/-Ajibade_Abdullah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ajibade-678590173/) [![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/eni4sure)
+[![Twitter Badge](https://img.shields.io/badge/-@kordjs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/kordjs) [![Linkedin Badge](https://img.shields.io/badge/-Ajibade_Abdullah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ajibade-678590173/)
 
 #### Top Technologies and Stack ⚡️
 
