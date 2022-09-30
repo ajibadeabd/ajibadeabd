@@ -37,7 +37,7 @@ I'm a Backend Dev. and Blockchain Engineer with 3 years plus  of building experi
 
  ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 
-#### Work 
+<!-- #### Work  -->
 
 <!-- Portfolio: https://www.eniolaosabiya.com/portfolio -->
  
