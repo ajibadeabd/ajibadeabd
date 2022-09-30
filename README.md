@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kord.js
+### Hi there 👋 I am Kordjs
 
 <!--
 **ajibadeabd/ajibadeabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
