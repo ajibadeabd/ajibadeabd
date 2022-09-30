@@ -49,6 +49,6 @@ Portfolio: https://www.eniolaosabiya.com/portfolio
   
 #### Github Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eni4sure&count_private=true&theme=dark&hide=contribs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ajibadeabd&count_private=true&theme=dark&hide=contribs,issues)
  
 </details>
