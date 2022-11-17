@@ -49,4 +49,6 @@ I'm a Backend Dev. and Blockchain Engineer with 3 years plus  of building experi
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ajibadeabd&count_private=true&theme=dark&hide=contribs,issues)
  
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajibadeabd)
+ 
 </details>
