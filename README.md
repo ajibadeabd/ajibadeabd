@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm kordjs  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
-I'm a Backend Dev. and Blockchain Engineer with 3 years plus  of building experience.
+I'm a Backend Dev. and Blockchain Engineer with 4 years plus  of building experience.
 
 :mailbox: Looking for me!
 
